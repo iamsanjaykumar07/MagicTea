@@ -3,8 +3,7 @@
 A calm and elegant landing page for a fictional herbal tea brand.
 
 ## 🔗 Live Site
-[Visit MagicTea](https://iamsanjaykumar07.github.io/MagicTea)  
-_(Replace with your real link)_
+[Visit MagicTea](https://iamsanjaykumar07.github.io/MagicTea) 
 
 ## 🛠️ Built With
 - HTML & CSS
